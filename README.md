@@ -3,7 +3,7 @@ Prerequisits:
 - Docker/Rancher
 - Python
 
-After Pulling the code locally navogate into Python folders and run:
+After getting the repo locally navogate into Python folders and run:
 - python -m venv .venv (create Python virtual environment)
 - source .venv/bin/activate (activate a virtual environment)
 - python -m pip install --upgrade pip
